@@ -1,0 +1,8 @@
+https://www.runoob.com/react/react-install.html
+React菜鸟教程---npm安装等操作详解
+
+https://www.runoob.com/react/react-install.html
+React插件快速创建
+
+// 创建组件-使用插件 rcep
+// 创建组件内部传值? - rconst
